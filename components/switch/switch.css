@@ -1,0 +1,16 @@
+.switch-button {
+    width: 13%;
+    height: 50px;
+    text-align: center;
+    background-color: purple;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-left: 28%;   
+    border: none;
+    color:white;
+  }
+  .switch-button:hover{
+      background-color: black;
+      cursor: pointer;
+  }
+  
